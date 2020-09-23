@@ -17,7 +17,6 @@ It uses a number of open source projects to work properly:
 * [shelljs] - Unix shell commands on top of the Node.js API
 * [lodash] - A modern JavaScript utility library delivering modularity, performance & extras.
 * [mocha] - JavaScript test framework
-* [Express] - fast node.js network app framework [@tjholowaychuk]
 
 ### Deployment
 ```sh
@@ -44,6 +43,11 @@ Custom test
 ```sh
 node /server/ --d distance --u unit --m mode-of-transportation
 ```
+
+### Errors
+
+
+In the case of wrong input, please find the error text in red for hints
 
 
 ### Improvement
