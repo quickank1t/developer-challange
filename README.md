@@ -29,7 +29,7 @@ node /server/ --d 1400 --u km --m train
 ### Commands
 For help
 ```sh
-node run help
+npm run help
 ```
 For demo
 ```sh
