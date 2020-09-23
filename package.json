@@ -6,7 +6,8 @@
   "scripts": {
     "test": "mocha ./server/test/**.test.js --timeout 20000 --exit",
     "demo": "node ./server/ --distance 14500 --unit m  --mode train",
-    "dev": "nodemon -x npm-run-all  test demo"
+    "dev": "nodemon -x npm-run-all  test demo",
+    "help": "node ./server/ --help"
   },
   "repository": {
     "type": "git",
