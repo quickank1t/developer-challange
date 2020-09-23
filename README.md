@@ -30,11 +30,11 @@ $ node /server/ --d 1400 --u km --m train
 ### Commands
 For help
 ```sh
-node /server/ --help
+node run help
 ```
 For demo
 ```sh
-npm demo
+npm run demo
 ```
 To test
 ```sh
