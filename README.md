@@ -21,9 +21,9 @@ It uses a number of open source projects to work properly:
 ### Deployment
 ```sh
 git clone https://github.com/quickank1t/developer-challange.git DC
-$ cd DC
-$ npm install
-$ node /server/ --d 1400 --u km --m train
+cd DC
+npm install
+node /server/ --d 1400 --u km --m train
 ```
 
 ### Commands
