@@ -40,6 +40,10 @@ To test
 ```sh
 npm run test
 ```
+Custom test
+```sh
+node /server/ --d distance --u unit --m mode-of-transportation
+```
 
 
 ### Improvement
